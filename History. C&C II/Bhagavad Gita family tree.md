@@ -1,7 +1,7 @@
 ```mermaid
 flowchart  TD;  
 subgraph FirstThreeBrothers[Brothers];
-Vayasa; Pandu; Dhritarashtra;
+Vyasa; Pandu; Dhritarashtra;
 end;
 Pandu --Marriage--- Kunt["Kunt (Wife)"] & Madar["Madar (Wife)"];
 subgraph MadarKids["Children (Formed Pandavas)"]
