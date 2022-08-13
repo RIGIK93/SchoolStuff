@@ -1,6 +1,6 @@
 ```mermaid
 flowchart  TD;  
-Vyasa --> Pandu & Dhritarashtra
+Vyasa --o Pandu & Dhritarashtra
 subgraph FirstThreeBrothers[Chidren];
 Pandu; Dhritarashtra;
 end;
@@ -21,5 +21,5 @@ subgraph GandhariKids["Children (Formed Kauravas)"]
 100kids[100 Children] --Includes--- Daryodhara["Duryodhana 
 (The leader of the group)"]
 end
-Gandhari --> GandhariKids
+Gandhari --o GandhariKids
  ```
