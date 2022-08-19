@@ -1,8 +1,6 @@
-## Etymology
-### Gunas
+## Gunas
 > Everything is made up from them
-
-**There are 3 types:**
+### Types
 - Sattva (sattvic action)
 	 - Purity, hollyness
 	- Self is made from it.
@@ -14,3 +12,20 @@
 flowchart TD
 Gunas --> Sattva & Rajas & Tamas
 ```
+## Types of Yoga
+```mermaid
+flowchart TD
+Yoga --> Karma & Wisdom
+subgraph Main[Main types]
+Karma[Karma Yoga]
+Wisdom["Yoga of Wisdom/Understanding"]
+end
+```
+### Karma yoga
+In short, **a path of detached action**.
+What does it mean?
+- Don't think about 
+	- result
+	- consequences
+	- personal gain
+- Just do it because you have to, focus on the task
