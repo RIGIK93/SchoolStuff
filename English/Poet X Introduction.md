@@ -22,7 +22,7 @@
 - Similie - the comparison of one thing with another thing of a different kind, used to make a description more emphatic or vivid (e.g., _as brave as a lion_, _crazy like a fox_ ).
 - Connotation/denotation - non literal/literal meaning of the word
 - anaphora - Anaphora is a [figure of speech](https://www.litcharts.com/literary-devices-and-terms/figure-of-speech) in which words repeat at the beginning of successive clauses, phrases, or sentences. For example, Martin Luther King's famous "I Have a Dream" speech contains anaphora: "So let freedom ring from the prodigious hilltops of New Hampshire. Let freedom ring from the mighty mountains of New York. Let freedom ring from the heightening Alleghenies of Pennsylvania..."
-- alliteration - repetition of sound
+- alliteration - the occurrence of the same letter or sound at the beginning of adjacent or closely connected words.
 - allusion - an expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.
 - prosonoification - given natural quality to artificial things
 
