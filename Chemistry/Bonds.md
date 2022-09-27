@@ -39,6 +39,7 @@
 | Connection | Strong |
 |valence $e^-$|Transfer|
 
+
 Ionic bonding happens within Metal + Non-metal compounds. Metals transfer electrons to non-metals
 ```mermaid
 flowchart LR
@@ -70,6 +71,9 @@ Na -->|"1e(-)"| C((Cl))
 |Atoms|$\text{Nm} + \text{Nm}$|
 | Connection | Weaker |
 |valence $e^-$|Share|
+
+
+
 covalent bonding happens within Non-metal + Non-metal compounds. Non-metals share electrons. **They share electrons not equally!** One atom takes *"dominant"* position and has larger ownership on shared electrons than the others
 ```mermaid
 flowchart LR
@@ -81,5 +85,7 @@ M((Non-metal))--o|Electrons|N((Non-Metal))
 |Atoms|$\text{Me}_n$|
 | Connection | The weakest |
 |valence $e^-$|Electronic cloud|
+
+
 Metallic bonding happens within non-metals 
 
